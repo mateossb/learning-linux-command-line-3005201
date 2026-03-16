@@ -9,6 +9,7 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias ..='cd ..'
 alias cls='clear'
+alias weather='curl wttr.in/Seattle'
 
 # Enable color for grep
 alias grep='grep --color=auto'
